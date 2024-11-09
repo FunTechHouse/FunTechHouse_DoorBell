@@ -2,7 +2,8 @@
 
 ## Abstract
 
-This project involves a classic doorbell system with a button outside the door and a bell inside the house. However, an Arduino is placed between the button and the bell, enabling actions to be managed via MQTT.
+This project involves a classic doorbell system with a button outside the door and a bell inside the house. 
+However, an Arduino is placed between the button and the bell, enabling actions to be managed via MQTT.
 
 ## Goals
 
